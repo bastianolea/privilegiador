@@ -4,7 +4,7 @@ library(htmltools)
 library(thematic)
 library(bslib)
 
-ui <- fluidPage(
+ui <- page_fluid(
   
   # header ----
   fluidRow(
